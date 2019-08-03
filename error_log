@@ -1,0 +1,8 @@
+[01-Aug-2019 13:39:02 Etc/GMT] PHP Fatal error:  Call to undefined function redirect() in /home/storyarka/public_html/system/core/URI.php on line 331
+[01-Aug-2019 13:39:03 Etc/GMT] PHP Fatal error:  Call to undefined function redirect() in /home/storyarka/public_html/system/core/URI.php on line 331
+[01-Aug-2019 13:39:04 Etc/GMT] PHP Fatal error:  Call to undefined function redirect() in /home/storyarka/public_html/system/core/URI.php on line 331
+[02-Aug-2019 13:18:58 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 180 seconds exceeded in /home/storyarka/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[03-Aug-2019 10:57:36 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 180 seconds exceeded in /home/storyarka/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[03-Aug-2019 11:15:47 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 180 seconds exceeded in /home/storyarka/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 422
+[03-Aug-2019 11:22:39 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 180 seconds exceeded in /home/storyarka/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[03-Aug-2019 11:25:50 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 180 seconds exceeded in /home/storyarka/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
